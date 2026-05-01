@@ -2,9 +2,9 @@
 
 # ၁။ ပင်မနေရာကို အရင်သွားပြီး အဟောင်းရှိရင် ရှင်းမယ်
 cd $HOME
-rm -rf my-license-server
+rm -rf newstl
 
-echo "🚀 Installing Aladdin Ruijie Bypass..."
+echo "🚀 Installing Ruijie Bypass..."
 
 # ၂။ လိုအပ်တဲ့ Python ပစ္စည်းတွေ သွင်းမယ်
 pkg install python git -y
