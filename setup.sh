@@ -14,7 +14,7 @@ pip install requests colorama urllib3
 git clone https://github.com/kowaznimey/newstl
 
 # ၄။ Folder ထဲကို ဝင်မယ်
-cd my-license-server
+cd newstl
 
 # ၅။ main.py ကို စတင် Run မယ်
 if [ -f "main.py" ]; then
