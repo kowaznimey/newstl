@@ -18,7 +18,7 @@ init(autoreset=True)
 # ===============================
 # LICENSE CONFIG
 # ===============================
-GITHUB_URL = "https://raw.githubusercontent.com/kowkaznimey/newstl/main/whitelist.txt"
+GITHUB_URL = "https://raw.githubusercontent.com/kowaznimey/newstl/main/whitelist.txt"
 KEY_FILE = os.path.join(os.path.expanduser("~"), ".device_key")
 
 # ===============================
